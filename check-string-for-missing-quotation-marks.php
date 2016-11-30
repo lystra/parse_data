@@ -1,5 +1,5 @@
                                 <!--Begin text upload-->
-\                   <?php
+<?php
 										if(isset($_POST['submit_string']))
 										{
                     //Begin processing string to check for missing quotation marks
